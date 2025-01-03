@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "name": "Raj Ratan Necklace",
+      "price": 100,
+      "imageUrl": "/n1.jpeg",
+      "description": "A beautiful Raj Ratan Necklace made with precision and elegance, perfect for traditional occasions.",
+      "longDescription": "This necklace is crafted with care and attention to detail, ensuring durability and unmatched beauty. Perfect for weddings and traditional ceremonies. Comes with free shipping.",
+      "sizes": ["Free Size"],
+      "stock": 25,
+      "reviews": [
+        { "rating": 5, "text": "Stunning design, perfect for weddings!" },
+        { "rating": 4, "text": "Good quality but a bit heavy." }
+      ],
+      "category": "Necklaces"
+    },
+    {
+      "id": 2,
+      "name": "Golden Halo Necklace",
+      "price": 150,
+      "imageUrl": "/n2.jpeg",
+      "description": "A charming Golden Halo Necklace that adds grace and elegance to any outfit.",
+      "longDescription": "Made with high-quality materials, this necklace offers a delicate yet bold statement. Ideal for festive occasions and celebrations.",
+      "sizes": ["Free Size"],
+      "stock": 30,
+      "reviews": [
+        { "rating": 5, "text": "Absolutely loved it!" },
+        { "rating": 3, "text": "Looks good but feels fragile." }
+      ],
+      "category": "Necklaces"
+    },
+    {
+      "id": 3,
+      "name": "Sapphire Glow Necklace",
+      "price": 200,
+      "imageUrl": "/n3.jpg",
+      "description": "A radiant Sapphire Glow Necklace that exudes luxury and charm.",
+      "longDescription": "Crafted with sparkling sapphire accents, this necklace is a statement piece for grand occasions. Free shipping on all orders.",
+      "sizes": ["Free Size"],
+      "stock": 15,
+      "reviews": [
+        { "rating": 5, "text": "A showstopper! Highly recommend." },
+        { "rating": 4, "text": "Beautiful but a little expensive." }
+      ],
+      "category": "Necklaces"
+    },
+    {
+      "id": 4,
+      "name": "Golden Royal Bangles",
+      "price": 250,
+      "imageUrl": "/n4.jpeg",
+      "description": "Elegant Golden Royal Bangles to complement your regal look.",
+      "longDescription": "These bangles are designed with intricate patterns and a flawless finish. Ideal for festivals and royal ceremonies.",
+      "sizes": ["S", "M", "L"],
+      "stock": 40,
+      "reviews": [
+        { "rating": 4, "text": "Perfect fit and finish." },
+        { "rating": 5, "text": "Absolutely love these bangles!" }
+      ],
+      "category": "Bangles"
+    },
+    {
+      "id": 5,
+      "name": "Golden Princess Bridal Set",
+      "price": 300,
+      "imageUrl": "/n5.jpeg",
+      "description": "An exquisite Golden Princess Bridal Set for the perfect wedding look.",
+      "longDescription": "This set includes a necklace, earrings, and bangles, all designed for the royal bride. Includes a one-year warranty and free shipping.",
+      "sizes": ["Free Size"],
+      "stock": 10,
+      "reviews": [
+        { "rating": 5, "text": "A bridal must-have!" },
+        { "rating": 4, "text": "Great design but slightly overpriced." }
+      ],
+      "category": "Bridal Sets"
+    },
+    {
+      "id": 6,
+      "name": "Majestic Bridal Choker",
+      "price": 350,
+      "imageUrl": "/n6.jpg",
+      "description": "A stunning Majestic Bridal Choker for a timeless bridal look.",
+      "longDescription": "Crafted for grandeur, this choker adds a regal touch to your wedding ensemble. Comes with a 1-year warranty.",
+      "sizes": ["Free Size"],
+      "stock": 20,
+      "reviews": [
+        { "rating": 5, "text": "Simply breathtaking!" },
+        { "rating": 4, "text": "Loved it, but a little tight fit." }
+      ],
+      "category": "Chokers"
+    },
+    {
+      "id": 7,
+      "name": "Sapphire Bridal Necklace",
+      "price": 200,
+      "imageUrl": "/n7.jpg",
+      "description": "A graceful Sapphire Bridal Necklace for a luxurious look.",
+      "longDescription": "The perfect addition to your bridal attire, this necklace is designed to make you shine. Free shipping on all orders.",
+      "sizes": ["Free Size"],
+      "stock": 30,
+      "reviews": [
+        { "rating": 5, "text": "Beautifully crafted!" },
+        { "rating": 3, "text": "Not as vibrant as expected." }
+      ],
+      "category": "Necklaces"
+    },
+    {
+      "id": 8,
+      "name": "Bridal Empress Bangles",
+      "price": 300,
+      "imageUrl": "/n8.jpg",
+      "description": "Bridal Empress Bangles that radiate elegance and style.",
+      "longDescription": "These bangles are designed for modern brides who appreciate tradition. Comes with a secure clasp and polished finish.",
+      "sizes": ["S", "M", "L"],
+      "stock": 15,
+      "reviews": [
+        { "rating": 5, "text": "Loved the intricate design!" },
+        { "rating": 4, "text": "Good quality but limited sizes." }
+      ],
+      "category": "Bangles"
+    },
+    {
+      "id": 9,
+      "name": "Limited Edition Gold Set",
+      "price": 300,
+      "imageUrl": "/n9.jpg",
+      "description": "A luxurious Limited Edition Gold Set for special occasions.",
+      "longDescription": "This exclusive gold set is crafted for those who value sophistication. Perfect for gifting or personal use.",
+      "sizes": ["Free Size"],
+      "stock": 10,
+      "reviews": [
+        { "rating": 5, "text": "Absolutely worth it!" },
+        { "rating": 4, "text": "Amazing design but costly." }
+      ],
+      "category": "Jewelry Sets"
+    },
+    {
+      "id": 10,
+      "name": "Light Necklace Gold",
+      "price": 800,
+      "imageUrl": "/n9.jpeg",
+      "description": "A lightweight Gold Necklace perfect for daily wear.",
+      "longDescription": "This necklace combines simplicity with elegance, making it suitable for any occasion. Includes free shipping.",
+      "sizes": ["Free Size"],
+      "stock": 5,
+      "reviews": [
+        { "rating": 5, "text": "Minimal yet elegant!" },
+        { "rating": 4, "text": "Great for everyday use." }
+      ],
+      "category": "Necklaces"
+    },
+    {
+      "id": 11,
+      "name": "Limited Edition Gold Kara",
+      "price": 1000,
+      "imageUrl": "/n10.jpg",
+      "description": "A premium Gold Kara that stands out.",
+      "longDescription": "Crafted with precision, this kara adds a touch of class to your outfit. Free shipping available.",
+      "sizes": ["Free Size"],
+      "stock": 10,
+      "reviews": [
+        { "rating": 5, "text": "Excellent quality!" },
+        { "rating": 3, "text": "A bit expensive for the design." }
+      ],
+      "category": "Kara"
+    },
+    {
+      "id": 12,
+      "name": "Ultra Royal Earing",
+      "price": 1000,
+      "imageUrl": "/n11.jpg",
+      "description": "Ultra Royal Earrings that exude timeless beauty.",
+      "longDescription": "Perfect for any celebration, these earrings feature exquisite craftsmanship. Comes with a 1-year warranty.",
+      "sizes": ["Free Size"],
+      "stock": 8,
+      "reviews": [
+        { "rating": 5, "text": "Perfect for grand occasions!" },
+        { "rating": 4, "text": "Good but heavy on ears." }
+      ],
+      "category": "Earrings"
+    },
+    {
+      "id": 13,
+      "name": "Trendy Gold Rani Set",
+      "price": 400,
+      "imageUrl": "/n12.jpg",
+      "description": "A Trendy Gold Rani Set that blends modern and traditional designs.",
+      "longDescription": "This set is crafted for the modern queen. Ideal for weddings and receptions. Includes free shipping.",
+      "sizes": ["Free Size"],
+      "stock": 12,
+      "reviews": [
+        { "rating": 5, "text": "Loved the design!" },
+        { "rating": 3, "text": "Looks great but fragile." }
+      ],
+      "category": "Jewelry Sets"
+    },
+    {
+      "id": 14,
+      "name": "Gold Ornaments Set",
+      "price": 150,
+      "imageUrl": "/n13.jpg",
+      "description": "A simple yet elegant Gold Ornaments Set.",
+      "longDescription": "Ideal for daily wear, this set is lightweight and stylish. Perfect for casual and formal looks.",
+      "sizes": ["Free Size"],
+      "stock": 25,
+      "reviews": [
+        { "rating": 5, "text": "Value for money!" },
+        { "rating": 4, "text": "Simple and elegant." }
+      ],
+      "category": "Ornaments"
+    },
+    {
+      "id": 15,
+      "name": "Chandra Gold Bold Set",
+      "price": 460,
+      "imageUrl": "/n14.jpg",
+      "description": "A bold and stylish Chandra Gold Bold Set.",
+      "longDescription": "Perfect for those who prefer bold and unique jewelry. Comes with a secure clasp and elegant finish.",
+      "sizes": ["Free Size"],
+      "stock": 18,
+      "reviews": [
+        { "rating": 5, "text": "Very unique design!" },
+        { "rating": 4, "text": "Stylish but a little heavy." }
+      ],
+      "category": "Jewelry Sets"
+    },
+    {
+      "id": 16,
+      "name": "Rare Diamond Gold Bangles",
+      "price": 1000,
+      "imageUrl": "/n15.jpg",
+      "description": "Exquisite Rare Diamond Gold Bangles for special occasions.",
+      "longDescription": "These bangles feature a unique blend of gold and diamonds, perfect for weddings and celebrations. Free shipping available.",
+      "sizes": ["S", "M", "L"],
+      "stock": 7,
+      "reviews": [
+        { "rating": 5, "text": "Perfect gift for my wife!" },
+        { "rating": 4, "text": "Amazing quality but slightly expensive." }
+      ],
+      "category": "Bangles"
+    }
+  ]
+  
