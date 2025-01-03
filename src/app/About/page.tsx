@@ -62,7 +62,7 @@ const AboutUs = () => {
               Passion for Diamand Jewelry
             </h3>
             <p className="text-gray-300">
-              As the founder of Gold Aura, I have a passion for creating jewelry pieces that capture elegance and grace in every detail.
+              As the founder of Diamond Dusk, I have a passion for creating jewelry pieces that capture elegance and grace in every detail.
             </p>
           </div>
         </div>

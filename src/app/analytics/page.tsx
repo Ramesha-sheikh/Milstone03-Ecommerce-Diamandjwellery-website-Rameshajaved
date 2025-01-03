@@ -53,8 +53,8 @@ const Analytics = () => {
   return (
     <div className="max-w-screen-xl mx-auto px-5 py-10 bg-white min-h-screen">
       <div className="text-center">
-        <h2 className="text-4xl font-semibold text-orange-950">Gold Aura Analytics</h2>
-        <p className="text-lg text-gray-500 mt-2">Track the performance of your gold jewelry sales</p>
+        <h2 className="text-4xl font-semibold text-orange-950">diamond Analytics</h2>
+        <p className="text-lg text-gray-500 mt-2">Track the performance of your diamond jewelry sales</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
@@ -67,9 +67,9 @@ const Analytics = () => {
 
         {/* Sales Section */}
         <div className="bg-gradient-to-r from-orange-800 to-orange-950 p-5 rounded-lg shadow-md">
-          <h3 className="text-xl font-medium text-orange-200">Total Jewelry Sales</h3>
+          <h3 className="text-xl font-medium text-orange-200">Total diamond Jewelry Sales</h3>
           <div className="text-3xl font-bold text-white mt-3">120 Pieces</div>
-          <p className="text-sm text-white mt-1">Jewelry pieces sold this month</p>
+          <p className="text-sm text-white mt-1"> diamondJewelry pieces sold this month</p>
         </div>
 
         {/* Conversion Rate Section */}
@@ -83,7 +83,7 @@ const Analytics = () => {
       {/* Performance Graph Section */}
       <div className="mt-10">
         <div className="text-center">
-          <h3 className="text-2xl font-semibold text-gray-700">Gold Jewelry Sales Performance</h3>
+          <h3 className="text-2xl font-semibold text-gray-700">diamond Jewelry Sales Performance</h3>
           <div className="w-full h-64 bg-gray-200 rounded-lg mt-5">
             <Line data={data} options={options} />
           </div>

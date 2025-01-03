@@ -8,7 +8,7 @@ const Reviews = () => {
           What Our Customers Are Saying
         </h2>
         <p className="text-xl sm:text-2xl text-orange-800 mb-16">
-          Hear from those who have experienced the luxury and beauty of Gold Aura&apos;s jewelry collection.
+          Hear from those who have experienced the luxury and beauty of Diamond Dusk&apos;s jewelry collection.
         </p>
 
         {/* Reviews Grid */}
@@ -18,7 +18,7 @@ const Reviews = () => {
             <div className="flex items-center justify-center mb-4">
               <div className="w-16 h-16 rounded-full bg-gray-300 overflow-hidden">
                 <Image
-                  src="/women2.jpg"
+                 src="/gi1.jpg"
                   alt="Customer"
                   className="w-full h-full object-cover"
                   width={200}
@@ -26,7 +26,7 @@ const Reviews = () => {
                 />
               </div>
             </div>
-            <h3 className="text-2xl font-semibold text-orange-800 mb-2">Ayesha</h3>
+            <h3 className="text-2xl font-semibold text-orange-800 mb-2">Maha</h3>
             <p className="text-lg text-gray-600 mb-4">The craftsmanship and elegance of these pieces are beyond words. I wear my necklace every day!</p>
             <div className="flex justify-center mb-4">
               {/* Star Rating */}
@@ -39,7 +39,7 @@ const Reviews = () => {
             <div className="flex items-center justify-center mb-4">
               <div className="w-16 h-16 rounded-full bg-gray-300 overflow-hidden">
                 <Image
-                  src="/man.jpg"
+                     src="/gi2.jpeg"
                   alt="Customer"
                   className="w-full h-full object-cover"
                   width={200}
@@ -47,7 +47,7 @@ const Reviews = () => {
                 />
               </div>
             </div>
-            <h3 className="text-2xl font-semibold text-orange-800 mb-2">Zayyan</h3>
+            <h3 className="text-2xl font-semibold text-orange-800 mb-2">Sana</h3>
             <p className="text-lg text-gray-600 mb-4">Absolutely love the gold ring I bought. It is perfect for special occasions and daily wear!</p>
             <div className="flex justify-center mb-4">
               {/* Star Rating */}
@@ -60,7 +60,7 @@ const Reviews = () => {
             <div className="flex items-center justify-center mb-4">
               <div className="w-16 h-16 rounded-full bg-gray-300 overflow-hidden">
                 <Image
-                  src="/women.jpg"
+                    src="/men1.jpeg"
                   alt="Customer"
                   className="w-full h-full object-cover"
                   width={200}
@@ -68,7 +68,7 @@ const Reviews = () => {
                 />
               </div>
             </div>
-            <h3 className="text-2xl font-semibold text-orange-800 mb-2">Saniya</h3>
+            <h3 className="text-2xl font-semibold text-orange-800 mb-2">Ali</h3>
             <p className="text-lg text-gray-600 mb-4">The jewelry exceeded my expectations. The gold&apos;s shine and quality are unmatched!</p>
             <div className="flex justify-center mb-4">
               {/* Star Rating */}

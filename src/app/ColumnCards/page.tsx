@@ -36,8 +36,8 @@ export default function VipSection() {
             className="w-full h-64 object-cover"
           />
           <div className="absolute inset-0 bg-red-900/50 flex flex-col items-center justify-center text-white p-4">
-            <h3 className="text-xl font-semibold">Exclusive Gold Bridal Sets</h3>
-            <p className="text-sm mt-2">Timeless gold sets designed to bring unmatched grace and luxury to your wedding day.</p>
+            <h3 className="text-xl font-semibold">Exclusive diamond Sets</h3>
+            <p className="text-sm mt-2">Timeless diamond sets designed to bring unmatched grace and luxury to your wedding day.</p>
           </div>
         </motion.div>
 
@@ -54,7 +54,7 @@ export default function VipSection() {
             className="w-full h-64 object-cover"
           />
           <div className="absolute inset-0 bg-red-900/50 flex flex-col items-center justify-center text-white p-4">
-            <h3 className="text-xl font-semibold">Timeless Gold & Diamond Bangles</h3>
+            <h3 className="text-xl font-semibold">Timeless  Diamond set</h3>
             <p className="text-sm mt-2">Exclusively crafted bangles that reflect sophistication and charm.</p>
           </div>
         </motion.div>
@@ -72,8 +72,8 @@ export default function VipSection() {
             className="w-full h-64 object-cover"
           />
           <div className="absolute inset-0 bg-red-900/50 flex flex-col items-center justify-center text-white p-4">
-            <h3 className="text-xl font-semibold">The Royal Bridal Set</h3>
-            <p className="text-sm mt-2">Indulge in the luxury of royal elegance with our regal bridal jewelry collection.</p>
+            <h3 className="text-xl font-semibold">The diamond Bridal Set</h3>
+            <p className="text-sm mt-2">Indulge in the diamond luxury of royal elegance with our regal bridal jewelry collection.</p>
           </div>
         </motion.div>
 
@@ -90,8 +90,8 @@ export default function VipSection() {
             className="w-full h-64 object-cover"
           />
           <div className="absolute inset-0 bg-red-900/50 flex flex-col items-center justify-center text-white p-4">
-            <h3 className="text-xl font-semibold">Limited Edition Gold Sets</h3>
-            <p className="text-sm mt-2">Unlock exclusive access to limited-edition gold set releases and special rewards.</p>
+            <h3 className="text-xl font-semibold">Limited Edition diamond</h3>
+            <p className="text-sm mt-2">Unlock diamond exclusive access to limited-edition gold set releases and special rewards.</p>
           </div>
         </motion.div>
       </div>
@@ -99,7 +99,7 @@ export default function VipSection() {
       <div className="bg-gray-900 py-12 mt-20 rounded-lg">
         <div className="text-center mb-6">
           <h2 className="text-2xl md:text-3xl font-semibold text-red-900 mb-4">Stay in the Loop with Our VIP Offers</h2>
-          <p className="text-lg text-black mb-8">
+          <p className="text-lg text-white mb-8">
             Subscribe now to receive premium updates, VIP rewards, and exclusive new arrivals directly to your inbox.
           </p>
         </div>
